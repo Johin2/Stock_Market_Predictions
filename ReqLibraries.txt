@@ -1,0 +1,10 @@
+matplotlib
+numpy
+scipy
+scikit-learn
+seaborn
+pandas
+skillsnetwork
+itertools
+json 
+joblib
