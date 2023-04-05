@@ -1,4 +1,3 @@
-Stock Market Predictions
 This project is designed to use machine learning models to make predictions about the stock market. The goal of this project is to analyze historical stock market data and use it to create models that can accurately predict future market trends.
 
 Data
